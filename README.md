@@ -21,3 +21,7 @@ Admin Management:
 
 IT administrators can add new staff and managers to the system.
 This system ensures that managers can allocate tasks effectively while staff can manage their schedules and workload preferences in advance.
+
+Link to Wireframe: https://www.figma.com/design/0F6FFf3ln6ivB9OBfZp1Co/Wireframing-(Copy)?node-id=0-1&node-type=canvas&t=CrhOciF0TbrBgb7l-0
+
+Link to diagrams: https://app.diagrams.net/#G1LHT4gK5txA0KoO5f_VThHGH2W9V2wR17#%7B%22pageId%22%3A%22070_LhrLy55TlqO5vMMR%22%7D
